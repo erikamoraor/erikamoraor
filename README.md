@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**erikamoraor/erikamoraor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tu Nombre
+![Tu Foto](URL_DE_TU_FOTO)
 
-Here are some ideas to get you started:
+## Sobre Mí
+Soy Erika, un desarrollador con experiencia en Azure. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vías de Contacto
+/*- [Tu Sitio Web](URL_DE_TU_SITIO)*/
+
+- [Tu LinkedIn](https://www.linkedin.com/in/erika-mora/)
+
+## Agradecimientos
+*Gracias por visitar mi perfil. Siento libre de contactarme.*
